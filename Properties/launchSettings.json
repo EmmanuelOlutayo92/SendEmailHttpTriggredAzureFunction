@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Email_Azure_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7225",
+      "launchBrowser": false
+    }
+  }
+}
